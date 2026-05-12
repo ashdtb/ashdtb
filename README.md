@@ -22,6 +22,11 @@
 </p>
 
 ---
+---
+
+## 🎧 Currently Vibing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31q7l5x7l5x7l5)
 
 ## 📊 Stats
 
@@ -44,4 +49,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashdtb/ashdtb/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />
 </p>
