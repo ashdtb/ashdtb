@@ -22,11 +22,17 @@
 </p>
 
 ---
----
-
 ## 🎧 Currently Vibing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31q7l5x7l5x7l5)
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://img.shields.io/badge/Spotify-Currently%20Vibing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Sleep Token • Bad Omens • Dark Coding Mode
+</p>
 
 ## 📊 Stats
 
