@@ -38,3 +38,10 @@
 <p align="center">
   <b>“are you in pain like I am?”</b>
 </p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashdtb/ashdtb/output/github-contribution-grid-snake-dark.svg" />
+</p>
