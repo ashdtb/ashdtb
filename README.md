@@ -30,10 +30,6 @@
   </a>
 </p>
 
-<p align="center">
-  Sleep Token • Bad Omens • Dark Coding Mode
-</p>
-
 ## 📊 Stats
 
 <p align="center">
