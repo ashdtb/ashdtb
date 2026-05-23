@@ -1,7 +1,7 @@
 <h1 align="center">ASH // DEV MODE</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=700&lines=learning+to+code;building+AI+tools;cyberpunk+developer;software+engineer+loading..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=700&lines=learning+to+code;building+AI+tools;software+engineer+loading..." />
 </p>
 
 ---
